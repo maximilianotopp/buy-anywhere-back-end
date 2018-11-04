@@ -12,8 +12,8 @@ In order to work with this project you should start by having a "buy-anywhere" f
 - There should be NO changes to MASTER branch. Changes are only made by Aproving a Pull-Request and merging a development branch to master
 - When you start working on a Story / Task you should create a branch with the following naming convention:<br/>  
   Example:<br/>
-    Let's assume that we have a task FE-001 that states the following: "As a user I want the logo of the app to be shown in the right corner of the screen"<br/>
-    Then the branch name will be "feature/FE-001-place-app-logo"
+    Let's assume that we have a task BE-001 that states the following: "As a user I want the logo of the app to be shown in the right corner of the screen"<br/>
+    Then the branch name will be "feature/BE-001-place-app-logo"
 - You should try to commit your changes as often as possible (this avoids undoing a lot of code when you blow something up)
 - ALWAYS add a description to your commits
 - Once your work is finished (Your application compiles, you had tested it and you merged the master branch into your branch!!!), you upload all changes to the repository and create a Pull Request and assign someone to it (we will assign everyone to the PR so that everyone can see the changes)
