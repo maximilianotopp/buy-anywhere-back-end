@@ -11,7 +11,7 @@ In order to work with this project you should start by having a "buy-anywhere" f
 ## Rules
 - There should be NO changes to MASTER branch. Changes are only made by Aproving a Pull-Request and merging a development branch to master
 - When you start working on a Story / Task you should create a branch with the following naming convention:
-  <feature or bug>/<task-id>-<change-description>
+  <<feature or bug>>/<task-id>-<change-description>
   Example:
     Let's assume that we have a task FE-001 that states the following: "As a user I want the logo of the app to be shown in the right corner of the screen"
     Then the branch name will be "feature/FE-001-place-app-logo"
